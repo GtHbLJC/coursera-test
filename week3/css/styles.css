@@ -66,6 +66,7 @@ h2 {
 #nav-list a {
 	font-size: 1.2em;
 	background-color: yellow;
+	margin: 0px 10px;
 }
 /* HOME PAGE */
 .container-fluid .jumbotron p {
